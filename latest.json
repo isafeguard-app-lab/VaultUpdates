@@ -1,0 +1,1 @@
+{"body": "---\nseverity: standard\n---\n- New: the app now notifies you when an update is available, with Update now, Tonight, and Skip this version actions\n- New: Check for updates toggle in Settings (on by default)\n- Minimum Android version is now 6.0 (API 23), required by the update library; Android 5.x devices stay on their current version\n", "tag_name": "v1.2.0-build14"}
