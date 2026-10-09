@@ -1,1 +1,1 @@
-{"body": "---\nseverity: standard\n---\n- Fix: fingerprint prompt now waits for the update check, so the update dialog never hides behind it\n- Fix: closing the app mid-download no longer strands the update — it resumes on next launch\n- New: postponing the update shows a brief reminder toast\n", "tag_name": "v1.2.9-build31"}
+{"body": "---\nseverity: standard\n---\n- Fix: biometric unlock no longer shows an error after updating and restarting\n- Settings About box cleanup\n", "tag_name": "v1.2.10-build32"}
