@@ -1,1 +1,1 @@
-{"body": "---\nseverity: standard\n---\n- Security: weak password salts are now rejected, and the desktop sign-in listener hardened against port conflicts and mismatched callbacks\n- Fix: interrupted syncs resume from the last good point instead of restarting\n", "tag_name": "v1.2.14-build36"}
+{"body": "---\nseverity: standard\n---\n- New: fingerprint unlock now waits for you to act on update alerts instead of covering them\n- New: see password strength live while creating or changing your master password\n", "tag_name": "v1.2.15-build37"}
