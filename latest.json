@@ -1,1 +1,1 @@
-{"body": "---\nseverity: standard\n---\n- New: fingerprint unlock now waits for you to act on update alerts instead of covering them\n- New: see password strength live while creating or changing your master password\n", "tag_name": "v1.2.15-build37"}
+{"body": "---\nseverity: standard\n---\n- Fixed: fingerprint unlock no longer hangs after locking your phone — the prompt now cancels cleanly and can be retried\n- Fixed: newly added secrets now appear at the top of the Date Used sort\n", "tag_name": "v1.2.16-build38"}
